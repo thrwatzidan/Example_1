@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Example_1</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_city">please Enter The First city Temperature</string>
+    <string name="secend_city">please Enter The Secend city Temperature</string>
+    <string name="third_city">please Enter The Third city Temperature</string>
+    <string name="fourth_city">please Enter the Fourth city Temperature</string>
+    <string name="fifth_city">please Enter The Fifth city Temperature</string>
+    <string name="avrage">The Average for Temperature citys</string>
+</resources>

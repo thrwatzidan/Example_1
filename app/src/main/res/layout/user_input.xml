@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@color/backinput">
+
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20sp"
+        android:hint="@string/first_city"
+        />
+
+    <EditText
+        android:paddingTop="10dp"
+        android:id="@+id/city_T1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="Enter Your Comment"
+        />
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="@string/secend_city"
+        />
+
+    <EditText
+        android:paddingTop="10dp"
+        android:id="@+id/city_T2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="Enter Your Comment"
+        />
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="@string/third_city"
+        />
+
+    <EditText
+        android:paddingTop="10dp"
+        android:id="@+id/city_T3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="Enter Your Comment"
+        />
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="@string/fourth_city"
+        />
+
+    <EditText
+        android:paddingTop="10dp"
+        android:id="@+id/city_T4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="Enter Your Comment"
+        />
+    <TextView
+        android:paddingTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="@string/fifth_city"
+        />
+
+    <EditText
+        android:paddingTop="10dp"
+        android:id="@+id/city_T5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=""
+        android:hint="Enter Your Comment"
+        />
+
+
+</LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
